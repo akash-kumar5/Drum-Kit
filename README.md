@@ -2,6 +2,9 @@
 Drum Kit
 Drum Kit is a fun and interactive web application that allows users to play different drum sounds by pressing various keyboard keys. It is a great way to learn about rhythm and sound and is perfect for musicians of all levels.
 
+![DrumKit Screenshot](./images/drumkit-screenshot.png)
+
+
 # Features
 Play different drum sounds by pressing various keyboard keys
 Fully responsive design for use on desktop and mobile devices
